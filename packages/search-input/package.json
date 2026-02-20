@@ -42,7 +42,7 @@
     "@leafygreen-ui/popover": "^11.4.0",
     "@leafygreen-ui/tokens": "^2.9.0",
     "@leafygreen-ui/typography": "^19.2.1",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "polished": "^4.2.2"
   },
   "peerDependencies": {

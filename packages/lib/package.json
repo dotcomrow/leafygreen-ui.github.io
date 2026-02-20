@@ -27,7 +27,7 @@
   },
   "dependencies": {
     "@storybook/csf": "^0.1.0",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "prop-types": "^15.7.2"
   },
   "devDependencies": {},
