@@ -34,7 +34,7 @@
     "@leafygreen-ui/polymorphic": "^2.0.0",
     "@leafygreen-ui/tokens": "^2.9.0",
     "@leafygreen-ui/typography": "^19.2.1",
-    "lodash": "^4.17.21",
+    "lodash": "^4.18.1",
     "polished": "^4.3.1",
     "react-transition-group": "^4.4.5"
   },
